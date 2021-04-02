@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet README dosyası, bir adet index.html barındırıyor.
 
-![](https://github.com/Kkubraselcuk/kodluyoruzilkrepo/repo.jpg)
+![](https://github.com/Kkubraselcuk/kodluyoruzilkrepo/blob/main/repo.jpg)
 
 ## Installation
 Öncelikle projeyi clonelayın. 
